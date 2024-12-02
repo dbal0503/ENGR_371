@@ -1,0 +1,56 @@
+Timestamp,Are you currently a student at Concordia University?,What program are you in?,What is your current GPA?,Are you currently in a CO-OP program for your degree?,Have you ever completed an internship related to your program?,How many internships have you completed related to your program?,How have you obtained any of your internships?,Are you currently looking for an internship?,Are you currently looking for an internship or have in the past looked for an internship?,"Being in CO-OP, are you in the process or have you completed an internship related to your program?","Being in CO-OP, how do you go about finding an internship opportunity?",Which of the following describe how you've been searching for internships?,Have you ever gotten to an interview stage in the process of applying to an internship,If so how many interviews have you done in the process of applying for an internship,How often do you practice your program's material outside class related assignments? (In hours per week),"If you use it, how many connections do you have on LinkedIn?"
+11/29/2024 0:05:02,Yes,Software Engineering,3.5-4.0,No,No,,,,No,,,,,,0-3,< 200
+11/29/2024 1:20:10,Yes,Aerospace Engineering ,2.5-2.9,No,No,,,,No,,,,,,0-3,< 200
+11/29/2024 1:42:10,Yes,Computer Engineering,3.0-3.49,Yes,,,,,,No,Applications to job postings,,,,8-10,< 200
+11/29/2024 14:42:19,Yes,Accounting,3.5-4.0,No,No,,,,Yes,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",Yes,5,16-20,> 700
+11/29/2024 16:11:06,Yes,Aerospace engineering,> 4.0,Yes,,,,,,Yes,"Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings, Praying to the Internship gods",,,,16-20,300-399
+11/29/2024 18:21:44,Yes,Mechanical Engineering ,2.5-2.9,No,No,,,,Yes,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Networking events",No,0,4-7,< 200
+11/30/2024 13:46:41,Yes,Software Engineering,3.5-4.0,No,Yes,1,"Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings",Yes,,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",No,0,4-7,500-599
+11/30/2024 13:49:25,Yes,Software Engineering,3.5-4.0,Yes,,,,,,Yes,"Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings, Social Media/Github Repos",,,,4-7,< 200
+11/30/2024 13:52:06,Yes,Software Engineering,3.5-4.0,Yes,,2,"The university aided me in obtaining the internship, Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings",No,,Yes,"The university aided me in obtaining the internship, Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings",,,,8-10,400-499
+11/30/2024 13:53:01,Yes,Sociology,3.0-3.49,No,No,,,,No,,,,,,0-3,0
+11/30/2024 13:57:42,Yes,Mechanical Engineering ,3.0-3.49,No,No,,,,Yes,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings",Yes,1,0-3,< 200
+11/30/2024 13:59:01,Yes,Software Engineering,3.0-3.49,No,No,,,,Yes,,,Doing research,No,0,4-7,500-599
+11/30/2024 14:01:40,Yes,Computer Science ,3.5-4.0,No,Yes,1,"Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings",No,,,,,,,11-15,200-299
+11/30/2024 14:03:16,Yes,Software Engineering,3.5-4.0,No,Yes,1,"Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings",Yes,,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",Yes,2,11-15,300-399
+11/30/2024 14:05:38,Yes,HR,3.0-3.49,No,No,,,,Yes,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",Yes,1,4-7,< 200
+11/30/2024 14:08:09,Yes,ECEE,3.5-4.0,No,Yes,2,The university aided me in obtaining the internship,No,,,,,,,8-10,0
+11/30/2024 14:10:22,Yes,Sociology,3.5-4.0,No,No,,,,No,,,,,,11-15,0
+11/30/2024 14:12:03,Yes,Psychology,3.0-3.49,No,No,,,,Yes,,,"Personal connections (teachers, relatives, colleagues, friends, etc)",No,0,0-3,0
+11/30/2024 14:12:59,Yes,Engineering,3.5-4.0,No,No,,,,Yes,,,Applying to job postings,Yes,1,0-3,0
+11/30/2024 14:14:11,Yes,Soci,2.5-2.9,No,No,,,,Yes,,,"Personal connections (teachers, relatives, colleagues, friends, etc)",No,0,8-10,< 200
+11/30/2024 14:15:40,Yes,Software Engineering,> 4.0,Yes,,4,"The university aided me in obtaining the internship, Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings",Yes,,Yes,"The university aided me in obtaining the internship, Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings","Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",Yes,> 6,0-3,0
+11/30/2024 14:16:06,Yes,Software Engineering ,2.5-2.9,No,Yes,2,"The university aided me in obtaining the internship, Applications to job postings",Yes,,,,Applying to job postings,Yes,> 6,0-3,400-499
+11/30/2024 14:21:55,Yes,Accounting,3.0-3.49,No,No,,,,Yes,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",Yes,1,20+,> 700
+11/30/2024 14:22:19,Yes,Computer Science,3.0-3.49,No,No,,,,Yes,,,"Applying to job postings, Networking events",Yes,2,0-3,< 200
+11/30/2024 14:25:50,Yes,Aerospace Engineering,3.5-4.0,Yes,,2,The university aided me in obtaining the internship,No,,Yes,The university aided me in obtaining the internship,,,,20+,200-299
+11/30/2024 14:26:27,Yes,Accounting,3.5-4.0,No,No,,,,No,,,,,,16-20,> 700
+11/30/2024 14:27:54,Yes,Accounting,2.5-2.9,No,No,,,,Yes,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",No,0,8-10,< 200
+11/30/2024 14:28:43,Yes,Accounting,3.0-3.49,No,No,,,,Yes,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",No,0,4-7,0
+11/30/2024 14:29:19,Yes,Bcomm,3.0-3.49,No,No,,,,No,,,,,,0-3,600-699
+11/30/2024 14:30:14,Yes,Bcom,3.5-4.0,No,Yes,1,"Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings",Yes,,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",Yes,1,4-7,200-299
+11/30/2024 14:31:16,Yes,Accounting,> 4.0,No,Yes,1,Applications to job postings,No,,,,,,,20+,< 200
+11/30/2024 14:32:56,Yes,BUSINESS - MAJOR IN SUPPLY CHAIN AND MANAGEMENT,3.0-3.49,Yes,,3,"The university aided me in obtaining the internship, Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings",No,,Yes,"The university aided me in obtaining the internship, Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings",,,,8-10,0
+11/30/2024 14:34:10,Yes,Marketing,3.5-4.0,No,Yes,3,"Personal connections (teachers, relatives, colleagues, friends, etc), Applications to job postings",No,,,,,,,4-7,600-699
+11/30/2024 14:34:47,Yes,Accounting,3.5-4.0,No,No,,,,No,,,,,,8-10,< 200
+11/30/2024 14:35:35,Yes,Finance,2.5-2.9,No,No,,,,Yes,,,I have not yet began my search,No,0,11-15,< 200
+11/30/2024 14:36:07,Yes,Software Engineering,3.5-4.0,No,No,,,,No,,,,,,0-3,< 200
+11/30/2024 17:46:54,Yes,Software engineering,3.0-3.49,Yes,,2,"The university aided me in obtaining the internship, Applications to job postings",No,,Yes,The university aided me in obtaining the internship,,,,0-3,500-599
+11/30/2024 18:38:33,Yes,Computer Engineering,3.0-3.49,Yes,,,,,,No,"The university aided me in obtaining the internship, Applications to job postings","Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",Yes,3,4-7,200-299
+11/30/2024 19:24:25,Yes,Computer Science,3.0-3.49,Yes,,0,"The university aided me in obtaining the internship, Applications to job postings",No,,Yes,"The university aided me in obtaining the internship, Applications to job postings",,,,0-3,300-399
+12/1/2024 11:06:19,Yes,finance,2.5-2.9,No,Yes,1,"Personal connections (teachers, relatives, colleagues, friends, etc)",Yes,,,,"Personal connections (teachers, relatives, colleagues, friends, etc)",No,2,8-10,< 200
+12/1/2024 11:06:25,Yes,Finance,3.0-3.49,No,No,,,,Yes,,,"Applying to job postings, Networking events",Yes,4,8-10,< 200
+12/1/2024 11:06:49,Yes,Accounting,3.0-3.49,No,No,,,,Yes,,,"Applying to job postings, Networking events",Yes,4,11-15,< 200
+12/1/2024 11:07:07,Yes,HRM,2.5-2.9,No,No,,,,No,,,,,,0-3,< 200
+12/1/2024 11:07:21,Yes,accounting,3.0-3.49,No,No,,,,Yes,,,Networking events,Yes,2,11-15,< 200
+12/1/2024 11:07:29,Yes,IBUS,3.0-3.49,Yes,,2,The university aided me in obtaining the internship,Yes,,Yes,Applications to job postings,"Applying to job postings, Networking events",Yes,4,0-3,< 200
+12/1/2024 11:08:07,Yes,Finance,3.5-4.0,No,Yes,2,Applications to job postings,Yes,,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",Yes,> 6,11-15,200-299
+12/1/2024 11:08:18,Yes,Marketing,3.5-4.0,No,No,,,,Yes,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Networking events",Yes,2,4-7,< 200
+12/1/2024 11:08:40,Yes,Marketing,3.0-3.49,Yes,,3,"The university aided me in obtaining the internship, Through university and renewal of internship with the same company ",No,,Yes,The university aided me in obtaining the internship,,,,0-3,< 200
+12/1/2024 11:09:17,Yes,Management ,3.0-3.49,No,No,,,,No,,,,,,8-10,0
+12/1/2024 11:10:06,Yes,Accounting,2.0-2.49,No,No,,,,No,,,,,,8-10,< 200
+12/1/2024 11:10:48,Yes,BAdmin,2.5-2.9,No,No,,,,No,,,,,,0-3,0
+12/1/2024 11:13:58,Yes,BTM,2.5-2.9,No,No,,,,Yes,,,"Personal connections (teachers, relatives, colleagues, friends, etc), Applying to job postings, Networking events",Yes,2,4-7,< 200
+12/1/2024 11:19:50,Yes,BTM,3.0-3.49,No,No,,,,Yes,,,"Applying to job postings, Networking events",No,0,0-3,< 200
+12/1/2024 13:13:55,Yes,Certificate in Accountancy,3.5-4.0,No,Yes,3,Applications to job postings,No,,,,,,,0-3,200-299
+12/1/2024 13:57:02,Yes,Accounting ,3.5-4.0,No,No,,,,Yes,,,"Applying to job postings, Networking events",No,0,0-3,< 200
