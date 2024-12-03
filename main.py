@@ -33,7 +33,7 @@ def calculate_median(df):
 def LinearRegressionfunction(df):
     X = df.drop(columns="acquisition_rate") ##Acquisition rate is offers/# of interviews
     y = df["acquisition_rate"]
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=10)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=10)
 
     model = LinearRegression()
     model.fit(X_train, y_train)
